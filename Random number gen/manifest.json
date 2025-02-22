@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Random Number Generator",
+    "version": "1.0",
+    "description": "Generates random numbers from 1 to 10",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
